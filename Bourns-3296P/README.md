@@ -1,5 +1,5 @@
 # Bourns 3296P
-A variable resistor model needed for the [powerClon-v2](https://github.com/mgesteiro/FreeCAD/powerClon-v2/), from our project [mClon](https://mclon.org).
+A variable resistor model needed for the [powerClon-v2](https://github.com/mgesteiro/FreeCAD/tree/master/powerClon-v2), from our project [mClon](https://mclon.org).
 
 ![Bourns-3296P](B3296P.png)
 

@@ -1,5 +1,5 @@
 # MT-3608
-An adjustable step-up module model needed for the [powerClon-v2](https://github.com/mgesteiro/FreeCAD/powerClon-v2/), from our project [mClon](https://mclon.org).
+An adjustable step-up module model needed for the [powerClon-v2](https://github.com/mgesteiro/FreeCAD/tree/master/powerClon-v2), from our project [mClon](https://mclon.org).
 
 ![MT-3608](MT-3608.png)
 

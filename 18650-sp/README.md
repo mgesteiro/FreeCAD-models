@@ -1,5 +1,5 @@
 # 18650 battery
-A 18650 battery (without protection) model needed for the [powerClon-v2](https://github.com/mgesteiro/FreeCAD/powerClon-v2/), from our project [mClon](https://mclon.org).
+A 18650 battery (without protection) model needed for the [powerClon-v2](https://github.com/mgesteiro/FreeCAD/tree/master/powerClon-v2), from our project [mClon](https://mclon.org).
 
 ![18650-sp](18650-sp.png)
 

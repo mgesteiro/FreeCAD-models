@@ -1,5 +1,5 @@
 # MP1405-03962A
-A lithium battery charger with protection module model needed for the [powerClon-v2](https://github.com/mgesteiro/FreeCAD/powerClon-v2/), from our project [mClon](https://mclon.org).
+A lithium battery charger with protection module model needed for the [powerClon-v2](https://github.com/mgesteiro/FreeCAD/tree/master/powerClon-v2), from our project [mClon](https://mclon.org).
 
 ![MP1405-03962A](MP1405-03962A.png)
 
