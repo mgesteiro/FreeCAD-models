@@ -1,7 +1,11 @@
 # COVID-19 surgical mask ear saver strip
-A protection strip 3D model to be 3D printed. Built from scratch with [FreeCAD](https://freecadweb.org) during the 2019 Covid pandemic. Useful to avoid prolongued contact from the surgical masks strips to the ears when worn for long hours.
+Two protection strip 3D models to be 3D printed. Built from scratch with [FreeCAD](https://freecadweb.org) during the 2019 Covid pandemic. Useful to avoid prolongued contact from the surgical masks strips with the ears when worn for long hours.
 
+### Standard version
 ![ear-saver](ear-saver.png)
+
+### Streched version
+![ear-saver-streched](ear-saver-streched.png)
 
 ## LICENSE
 
