@@ -1,5 +1,5 @@
-# FreeCAD
-My own FreeCAD models repository
+# FreeCAD models & parts
+My own FreeCAD models & parts repository
 
 
 ## LICENSE
