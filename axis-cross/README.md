@@ -5,7 +5,7 @@ A 3D model to be 3D printed, representing the [FreeCAD](https://freecadweb.org) 
 This model is a little puzzle that I give unassembled to my apprentices -as a gift- during my FreeCAD/3D-printing workshops: they have to mount it before I start explaining. It has also some interesting (and clever) properties:
 
 * the pieces can only be put together in a way, to preserve the axis geometry itself. It is easy to assemble and requieres *little force* to be mounted (if you need to push hard, maybe you're doing it wrong 😉).
-* only sits **completly flat** in a position: with the Z-blue-axis pointing upward.
+* once mounted, only sits **completly flat** in a position: with the Z-blue-axis pointing upward.
 * once it's flat on a surface (e.g. your desk), **if you can "read straight" al three letters**, then the X-red-axis is pointing to the right, the Y-green-axis to the front, and the Z-blue-axis upward (like in the image): this is the typical initial state/position of the reference XYZ coordinate system axis-cross 👌
 
 ![axis-cross-model](axis-cross.png)
