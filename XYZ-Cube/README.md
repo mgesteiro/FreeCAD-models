@@ -1,5 +1,5 @@
 # XYZ Calibration Cube
-After [EInsua](https://github.com/einsua) finding-out that the famous [XYZ-Callibration-Cube](https://www.thingiverse.com/thing:1278865) was *"incorrect"* (letters not centered and even not straigth), **I had to™** create a *"valid"* model, using [FreeCAD](https://FreeCADweb.org) (the same tool as the [original author](https://www.idig3dprinting.co.uk/news/how-to-guides/create-a-3d-printer-calibration-cube-in-freecad/), but **well done™**!).
+After [EInsua](https://github.com/einsua) finding-out that the famous [XYZ-Calibration-Cube](https://www.thingiverse.com/thing:1278865) was *"incorrect"* (letters not centered and even not straigth), **I had to™** create a *"valid"* model, using [FreeCAD](https://FreeCADweb.org) (the same tool as the [original author](https://www.idig3dprinting.co.uk/news/how-to-guides/create-a-3d-printer-calibration-cube-in-freecad/), but **well done™**!).
 
 
 ![XYZ Calibration Cube](XYZ-Cube.png)
