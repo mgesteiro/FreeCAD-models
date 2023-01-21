@@ -1,5 +1,15 @@
 # FreeCAD models & parts
-My own FreeCAD models & parts repository
+My own FreeCAD models & parts repository, mainly used in my own projects and **shared here** to contribute to the **Maker/Open-source/Open-hardware commons**.
+
+## REMARKABLE PROJECTS
+There are two remarkable models worth highlighting that can be considered projects on their own. Click on the image to see details:
+
+### Axis-Cross
+[![axis-cross](axis-cross/axis-cross.png)](axis-cross)
+
+### Combination-Lock
+[![combination-lock](combination-lock/images/combination-lock.png)](combination-lock)
+
 
 
 ## LICENSE
